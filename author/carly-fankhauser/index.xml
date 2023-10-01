@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carly Fankhauser | QuantLab 2.0</title>
+    <link>http://example.org/author/carly-fankhauser/</link>
+      <atom:link href="http://example.org/author/carly-fankhauser/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carly Fankhauser</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://example.org/author/carly-fankhauser/avatar_huadf6c85a1fcb18fd023e1d72eec1d642_30745_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Carly Fankhauser</title>
+      <link>http://example.org/author/carly-fankhauser/</link>
+    </image>
+    
+    <item>
+      <title>Recolonization of secondary forests by locally extinct fauna through the lens of range expansion: Four open questions</title>
+      <link>http://example.org/publication/acevedo2023recolonization/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/acevedo2023recolonization/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>No evidence of predicted phenotypic changes after hurricane disturbance in a shade-specialist Caribbean anole</title>
+      <link>http://example.org/publication/acevedo2022no/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/acevedo2022no/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

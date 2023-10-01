@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Morgan Manning | QuantLab 2.0</title>
+    <link>http://example.org/author/morgan-manning/</link>
+      <atom:link href="http://example.org/author/morgan-manning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Morgan Manning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://example.org/author/morgan-manning/avatar_hu2aa2d0556083939f4b70f5dd5c96a5cf_293687_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Morgan Manning</title>
+      <link>http://example.org/author/morgan-manning/</link>
+    </image>
+    
+  </channel>
+</rss>

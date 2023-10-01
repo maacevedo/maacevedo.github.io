@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | QuantLab 2.0</title>
+    <link>http://example.org/post/</link>
+      <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://example.org/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
+      <title>Latest News</title>
+      <link>http://example.org/post/</link>
+    </image>
+    
+    <item>
+      <title>Congratulations Dr. Gengler</title>
+      <link>http://example.org/post/23_08_12_congratulations_nick/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/23_08_12_congratulations_nick/</guid>
+      <description>&lt;p&gt;Nick just graduated from his PhD! Congratulations Dr. Gengler!&lt;/p&gt;
+&lt;p&gt;Nick initial PhD idea was to work on quantitative approaches to better understand and manage mammal communities in Paraguay. And then COVID19 happened. He couldn&amp;rsquo;t travel to Paraguay so instead, Nick developed a pretty clever plan b, to address one of the most important challenges in landscape ecology. As part of his dissertation Nick conducted a global analysis compare the scale of effect of landscape composition and configuration of forest mammals. Nick&amp;rsquo;s degree was supported by an (NSF-GRF)[https://www.nsfgrfp.org/]. We are grateful of NSF for supporting his career. Paraguay didn&amp;rsquo;t happened for his PhD, but&amp;hellip;he landed a position with local NGO in Paraguay working in mammal conservation. Nick&amp;rsquo;s story is one of perseverance and success.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Papers 2.0 (ESA 2023)</title>
+      <link>http://example.org/post/23_08_11_data_papers_esa/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/23_08_11_data_papers_esa/</guid>
+      <description>&lt;p&gt;We are back from Portland, where we did a workshop on Data Papers and the future of open science at ESA 2023.&lt;/p&gt;
+&lt;p&gt;The future of ecology is intrinsically tied to our ability to conduct open science. Data Papers are a special type of paper in Ecology where data and metadata are published to be reused. Our group of ESA Data Paper Editors composed of &lt;a href=&#34;https://www.usgs.gov/index.php/staff-profiles/grace-v-direnzo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grace DiRenzo&lt;/a&gt;, &lt;a href=&#34;https://haoye.us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hao Ye&lt;/a&gt;, &lt;a href=&#34;https://www.picardiecology.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simona Picardi&lt;/a&gt;, and myself are working towards a re conceptualization of this important type of paper. We are following a data-driven process that includes gathering input from the community. As part of this process we led a special session at ESA where our community engaged in a super fun and highly engaging brainstorming session. Working with this group is a real luxury! Stay tuned as we we will announce soon the new features of Data Papers 2.0!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Miguel gets NACTA Educators Award</title>
+      <link>http://example.org/post/23-07-01-nacta-award/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/23-07-01-nacta-award/</guid>
+      <description>&lt;p&gt;Congratulations to Miguel for getting the NACTA Educator Award recognition.&lt;/p&gt;
+&lt;p&gt;North American Colleges and Teachers of Agriculture (NACTA) recognized Miguel with the NACTA Educator Award which recognizes those individuals whose efforts represent the very best in agricultural higher education.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>We are back from Puerto Rico (Summer 2023)</title>
+      <link>http://example.org/post/23_05_01_back_from_puerto_rico/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/23_05_01_back_from_puerto_rico/</guid>
+      <description>&lt;p&gt;We are back from the field collecting data on lizard malaria in Puerto Rico.&lt;/p&gt;
+&lt;p&gt;This was an awesome and productive field season! Our first mission was to collect data for our long-term study of lizard-malaria dynamics. (Yes, lizards get malaria. No, you will not likely get malaria from a lizard). One of the biggest mysteries in this system is the vector identity. We know that malaria gets transmitted among lizards by an insect vector, but we don&amp;rsquo;t know who it is. This field season, we brought the big guns! We joined forces with &lt;a href=&#34;https://yeemosquitolab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Don Yee&lt;/a&gt; and &lt;a href=&#34;http://www.lawrencereeves.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lawrence Reeves&lt;/a&gt;&amp;hellip;and&amp;hellip;during a night walk we finally saw our suspected vector biting lizards! We are working as a team to report our findings in a peer-reviewed publication. Needless to say that we are super excited about the discovery!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>We are back from Mitu</title>
+      <link>http://example.org/post/23_04_01_back_from_mitu/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/23_04_01_back_from_mitu/</guid>
+      <description>&lt;p&gt;We are back from the Colombian Amazon in an expedition to assess Orlando&amp;rsquo;s study sites.&lt;/p&gt;
+&lt;p&gt;The Amazon&amp;hellip;did we need to say more?! What a fantastic expedition. We spent nine days in Vaupés, Colombia-one of the most isolated parts of the Colombian Amazon where Orlando wants to do one of the chapters of his dissertation. We were joined by &lt;a href=&#34;https://www.floridamuseum.ufl.edu/museum-voices/scott-robinson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scott Robinson&lt;/a&gt; so&amp;hellip;yes&amp;hellip;we were interested in those hyper diverse bird communities, particularly those that lived white sand forests. Orlando&amp;rsquo;s questions about climate change and bird-species assemblages in the Amazon are timely, the study site magical, and the local indigenous communities welcoming. We can&amp;rsquo;t wait to be back!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

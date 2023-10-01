@@ -1,0 +1,18 @@
+{
+  "name": "QuantLab 2.0",
+  "short_name": "QuantLab 2.0",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/media/icon_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
