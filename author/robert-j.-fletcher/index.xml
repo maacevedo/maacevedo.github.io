@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert J. Fletcher | QuantLab 2.0</title>
-    <link>http://example.org/author/robert-j.-fletcher/</link>
-      <atom:link href="http://example.org/author/robert-j.-fletcher/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/author/robert-j.-fletcher/</link>
+      <atom:link href="https://example.com/author/robert-j.-fletcher/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert J. Fletcher</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
+      <url>https://example.com/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
       <title>Robert J. Fletcher</title>
-      <link>http://example.org/author/robert-j.-fletcher/</link>
+      <link>https://example.com/author/robert-j.-fletcher/</link>
     </image>
     
     <item>
       <title>samc: an R package for connectivity modeling with spatial absorbing Markov chains</title>
-      <link>http://example.org/publication/marx2020samc/</link>
+      <link>https://example.com/publication/marx2020samc/</link>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/marx2020samc/</guid>
+      <guid>https://example.com/publication/marx2020samc/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -27,9 +27,9 @@
     
     <item>
       <title>Towards a unified framework for connectivity that disentangles movement and mortality in space and time</title>
-      <link>http://example.org/publication/fletcher2019towards/</link>
+      <link>https://example.com/publication/fletcher2019towards/</link>
       <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/fletcher2019towards/</guid>
+      <guid>https://example.com/publication/fletcher2019towards/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -40,9 +40,9 @@
     
     <item>
       <title>A defender-attacker model and algorithm for maximizing weighted expected hitting time with application to conservation planning</title>
-      <link>http://example.org/publication/sefair2017defender/</link>
+      <link>https://example.com/publication/sefair2017defender/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/sefair2017defender/</guid>
+      <guid>https://example.com/publication/sefair2017defender/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -53,9 +53,9 @@
     
     <item>
       <title>The proximate causes of asymmetric movement across heterogeneous landscapes</title>
-      <link>http://example.org/publication/acevedo2016proximate/</link>
+      <link>https://example.com/publication/acevedo2016proximate/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/acevedo2016proximate/</guid>
+      <guid>https://example.com/publication/acevedo2016proximate/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -66,9 +66,9 @@
     
     <item>
       <title>Conservation under uncertainty: optimal network protection strategies for worst-case disturbance events</title>
-      <link>http://example.org/publication/acevedo2015conservation/</link>
+      <link>https://example.com/publication/acevedo2015conservation/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/acevedo2015conservation/</guid>
+      <guid>https://example.com/publication/acevedo2015conservation/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -79,9 +79,9 @@
     
     <item>
       <title>The matrix alters the role of path redundancy on patch colonization rates</title>
-      <link>http://example.org/publication/fletcher2014matrix/</link>
+      <link>https://example.com/publication/fletcher2014matrix/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/fletcher2014matrix/</guid>
+      <guid>https://example.com/publication/fletcher2014matrix/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -92,9 +92,9 @@
     
     <item>
       <title>A diffusive logistic growth model to describe forest recovery</title>
-      <link>http://example.org/publication/acevedo2012diffusive/</link>
+      <link>https://example.com/publication/acevedo2012diffusive/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/acevedo2012diffusive/</guid>
+      <guid>https://example.com/publication/acevedo2012diffusive/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -105,9 +105,9 @@
     
     <item>
       <title>Social network models predict movement and connectivity in ecological landscapes</title>
-      <link>http://example.org/publication/fletcher2011social/</link>
+      <link>https://example.com/publication/fletcher2011social/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/fletcher2011social/</guid>
+      <guid>https://example.com/publication/fletcher2011social/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.

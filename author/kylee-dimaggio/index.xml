@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kylee DiMaggio | QuantLab 2.0</title>
-    <link>http://example.org/author/kylee-dimaggio/</link>
-      <atom:link href="http://example.org/author/kylee-dimaggio/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/author/kylee-dimaggio/</link>
+      <atom:link href="https://example.com/author/kylee-dimaggio/index.xml" rel="self" type="application/rss+xml" />
     <description>Kylee DiMaggio</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>http://example.org/author/kylee-dimaggio/avatar_hu559a395f6b48b04c7257cb56fe7cdf6f_110831_270x270_fill_lanczos_center_3.png</url>
+      <url>https://example.com/author/kylee-dimaggio/avatar_hu559a395f6b48b04c7257cb56fe7cdf6f_110831_270x270_fill_lanczos_center_3.png</url>
       <title>Kylee DiMaggio</title>
-      <link>http://example.org/author/kylee-dimaggio/</link>
+      <link>https://example.com/author/kylee-dimaggio/</link>
     </image>
     
   </channel>

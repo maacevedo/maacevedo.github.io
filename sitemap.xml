@@ -2,605 +2,605 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/event/example/</loc>
+    <loc>https://example.com/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/event/</loc>
+    <loc>https://example.com/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/post/23_08_12_congratulations_nick/</loc>
+    <loc>https://example.com/post/23_08_12_congratulations_nick/</loc>
     <lastmod>2023-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://example.com/post/</loc>
     <lastmod>2023-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/post/23_08_11_data_papers_esa/</loc>
+    <loc>https://example.com/post/23_08_11_data_papers_esa/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication-type/2/</loc>
+    <loc>https://example.com/publication-type/2/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/authors/</loc>
+    <loc>https://example.com/authors/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/jason-b.-allen/</loc>
+    <loc>https://example.com/author/jason-b.-allen/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/katherine-a.-mchugh/</loc>
+    <loc>https://example.com/author/katherine-a.-mchugh/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/krystan-a.-wilkinson/</loc>
+    <loc>https://example.com/author/krystan-a.-wilkinson/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/kylee-m.-dimaggio/</loc>
+    <loc>https://example.com/author/kylee-m.-dimaggio/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/miguel-acevedo/</loc>
+    <loc>https://example.com/author/miguel-acevedo/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication_types/</loc>
+    <loc>https://example.com/publication_types/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/</loc>
+    <loc>https://example.com/publication/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/randall-s.-wells/</loc>
+    <loc>https://example.com/author/randall-s.-wells/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/dimaggio2023fitness/</loc>
+    <loc>https://example.com/publication/dimaggio2023fitness/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/post/23-07-01-nacta-award/</loc>
+    <loc>https://example.com/post/23-07-01-nacta-award/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/nicholas-gengler/</loc>
+    <loc>https://example.com/author/nicholas-gengler/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/gengler2023systematic/</loc>
+    <loc>https://example.com/publication/gengler2023systematic/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2023-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/post/23_05_01_back_from_puerto_rico/</loc>
+    <loc>https://example.com/post/23_05_01_back_from_puerto_rico/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/post/23_04_01_back_from_mitu/</loc>
+    <loc>https://example.com/post/23_04_01_back_from_mitu/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/ian-g.-flores-siaca/</loc>
+    <loc>https://example.com/author/ian-g.-flores-siaca/</loc>
     <lastmod>2022-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/toohey2022identifying/</loc>
+    <loc>https://example.com/publication/toohey2022identifying/</loc>
     <lastmod>2022-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/john-m.-toohey/</loc>
+    <loc>https://example.com/author/john-m.-toohey/</loc>
     <lastmod>2022-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/luisa-otero/</loc>
+    <loc>https://example.com/author/luisa-otero/</loc>
     <lastmod>2022-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/carly-fankhauser/</loc>
+    <loc>https://example.com/author/carly-fankhauser/</loc>
     <lastmod>2022-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/acevedo2023recolonization/</loc>
+    <loc>https://example.com/publication/acevedo2023recolonization/</loc>
     <lastmod>2022-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/riccardo-papa/</loc>
+    <loc>https://example.com/author/riccardo-papa/</loc>
     <lastmod>2022-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://example.com/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/people/</loc>
+    <loc>https://example.com/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tour/</loc>
+    <loc>https://example.com/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/david-clark/</loc>
+    <loc>https://example.com/author/david-clark/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/john-michael-toohey/</loc>
+    <loc>https://example.com/author/john-michael-toohey/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/acevedo2022no/</loc>
+    <loc>https://example.com/publication/acevedo2022no/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/cruz2022animal/</loc>
+    <loc>https://example.com/publication/cruz2022animal/</loc>
     <lastmod>2022-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/omar-cruz-pantoja/</loc>
+    <loc>https://example.com/author/omar-cruz-pantoja/</loc>
     <lastmod>2022-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/raymond-tremblay/</loc>
+    <loc>https://example.com/author/raymond-tremblay/</loc>
     <lastmod>2022-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/virnaliz-cruz-hernandez/</loc>
+    <loc>https://example.com/author/virnaliz-cruz-hernandez/</loc>
     <lastmod>2022-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/zhang2021visual/</loc>
+    <loc>https://example.com/publication/zhang2021visual/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/haley-mellin/</loc>
+    <loc>https://example.com/author/haley-mellin/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/jorge-a.-sefair/</loc>
+    <loc>https://example.com/author/jorge-a.-sefair/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/katherine-adams/</loc>
+    <loc>https://example.com/author/katherine-adams/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/ross-maciejewski/</loc>
+    <loc>https://example.com/author/ross-maciejewski/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/rui-zhang/</loc>
+    <loc>https://example.com/author/rui-zhang/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/yafeng-lu/</loc>
+    <loc>https://example.com/author/yafeng-lu/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/perez2021comparing/</loc>
+    <loc>https://example.com/publication/perez2021comparing/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/lori-a.-phillips/</loc>
+    <loc>https://example.com/author/lori-a.-phillips/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/lumarie-perez-guzman/</loc>
+    <loc>https://example.com/author/lumarie-perez-guzman/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/veronica-acosta-mart%5Cinez/</loc>
+    <loc>https://example.com/author/veronica-acosta-mart%5Cinez/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/christopher-j.-lortie/</loc>
+    <loc>https://example.com/author/christopher-j.-lortie/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/lashley2020how/</loc>
+    <loc>https://example.com/publication/lashley2020how/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/marcus-a.-lashley/</loc>
+    <loc>https://example.com/author/marcus-a.-lashley/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/sehoya-cotner/</loc>
+    <loc>https://example.com/author/sehoya-cotner/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/acevedo2020teaching/</loc>
+    <loc>https://example.com/publication/acevedo2020teaching/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/elvia-j.-melendez-ackerman/</loc>
+    <loc>https://example.com/author/elvia-j.-melendez-ackerman/</loc>
     <lastmod>2020-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/acevedo2020local/</loc>
+    <loc>https://example.com/publication/acevedo2020local/</loc>
     <lastmod>2020-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/lydia-beaudrot/</loc>
+    <loc>https://example.com/author/lydia-beaudrot/</loc>
     <lastmod>2020-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/raymond-l.-tremblay/</loc>
+    <loc>https://example.com/author/raymond-l.-tremblay/</loc>
     <lastmod>2020-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/andrew-marx/</loc>
+    <loc>https://example.com/author/andrew-marx/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/chao-wang/</loc>
+    <loc>https://example.com/author/chao-wang/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/robert-j.-fletcher/</loc>
+    <loc>https://example.com/author/robert-j.-fletcher/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/marx2020samc/</loc>
+    <loc>https://example.com/publication/marx2020samc/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/andrew-j.-marx/</loc>
+    <loc>https://example.com/author/andrew-j.-marx/</loc>
     <lastmod>2019-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/caroline-poli/</loc>
+    <loc>https://example.com/author/caroline-poli/</loc>
     <lastmod>2019-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/emilio-bruna/</loc>
+    <loc>https://example.com/author/emilio-bruna/</loc>
     <lastmod>2019-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/michael-barfield/</loc>
+    <loc>https://example.com/author/michael-barfield/</loc>
     <lastmod>2019-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/robert-d.-holt/</loc>
+    <loc>https://example.com/author/robert-d.-holt/</loc>
     <lastmod>2019-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/thomas-smith/</loc>
+    <loc>https://example.com/author/thomas-smith/</loc>
     <lastmod>2019-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/fletcher2019towards/</loc>
+    <loc>https://example.com/publication/fletcher2019towards/</loc>
     <lastmod>2019-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/alex-zvoleff/</loc>
+    <loc>https://example.com/author/alex-zvoleff/</loc>
     <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/crhistine-fletcher/</loc>
+    <loc>https://example.com/author/crhistine-fletcher/</loc>
     <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/eileen-larney/</loc>
+    <loc>https://example.com/author/eileen-larney/</loc>
     <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/francesco-rovero/</loc>
+    <loc>https://example.com/author/francesco-rovero/</loc>
     <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/jean-philippe-lessard/</loc>
+    <loc>https://example.com/author/jean-philippe-lessard/</loc>
     <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/jorge-ahumada/</loc>
+    <loc>https://example.com/author/jorge-ahumada/</loc>
     <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/beaudrot2019local/</loc>
+    <loc>https://example.com/publication/beaudrot2019local/</loc>
     <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/patrick-a.-jansen/</loc>
+    <loc>https://example.com/author/patrick-a.-jansen/</loc>
     <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/sandy-andelman/</loc>
+    <loc>https://example.com/author/sandy-andelman/</loc>
     <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/sheil-douglas/</loc>
+    <loc>https://example.com/author/sheil-douglas/</loc>
     <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/timothy-obrien/</loc>
+    <loc>https://example.com/author/timothy-obrien/</loc>
     <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/andrew-flick/</loc>
+    <loc>https://example.com/author/andrew-flick/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/bret-d.-elderd/</loc>
+    <loc>https://example.com/author/bret-d.-elderd/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/forrest-p.-dillemuth/</loc>
+    <loc>https://example.com/author/forrest-p.-dillemuth/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/matthew-faldyn/</loc>
+    <loc>https://example.com/author/matthew-faldyn/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/acevedo2019virulence/</loc>
+    <loc>https://example.com/publication/acevedo2019virulence/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/joseph-schall/</loc>
+    <loc>https://example.com/author/joseph-schall/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/kristen-aaltonen/</loc>
+    <loc>https://example.com/author/kristen-aaltonen/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/otero2019drivers/</loc>
+    <loc>https://example.com/publication/otero2019drivers/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/virnaliz-cruz-hernandez/</loc>
+    <loc>https://example.com/author/virnaliz-cruz-hernandez/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/beaudrot2018distributional/</loc>
+    <loc>https://example.com/publication/beaudrot2018distributional/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/douglas-sheil/</loc>
+    <loc>https://example.com/author/douglas-sheil/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/jean-phillippe-lessard/</loc>
+    <loc>https://example.com/author/jean-phillippe-lessard/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/patricia-wright/</loc>
+    <loc>https://example.com/author/patricia-wright/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/sefair2017defender/</loc>
+    <loc>https://example.com/publication/sefair2017defender/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/cruz2017anolis/</loc>
+    <loc>https://example.com/publication/cruz2017anolis/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/cole-j.-smith/</loc>
+    <loc>https://example.com/author/cole-j.-smith/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/janelle-pena/</loc>
+    <loc>https://example.com/author/janelle-pena/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/nicole-martinez-llaurador/</loc>
+    <loc>https://example.com/author/nicole-martinez-llaurador/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/andrew-j.-flick/</loc>
+    <loc>https://example.com/author/andrew-j.-flick/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/flick2016negative/</loc>
+    <loc>https://example.com/publication/flick2016negative/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/acevedo2016proximate/</loc>
+    <loc>https://example.com/publication/acevedo2016proximate/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/eliva-j.-melendez-ackerman/</loc>
+    <loc>https://example.com/author/eliva-j.-melendez-ackerman/</loc>
     <lastmod>2015-06-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/acevedo2015asymmmetries/</loc>
+    <loc>https://example.com/publication/acevedo2015asymmmetries/</loc>
     <lastmod>2015-06-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/craig-osenberg/</loc>
+    <loc>https://example.com/author/craig-osenberg/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/david-l.-smith/</loc>
+    <loc>https://example.com/author/david-l.-smith/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/keneth-lopiano/</loc>
+    <loc>https://example.com/author/keneth-lopiano/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/maia-martcheva/</loc>
+    <loc>https://example.com/author/maia-martcheva/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/nick-ruktanonchai/</loc>
+    <loc>https://example.com/author/nick-ruktanonchai/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/olivia-prosper/</loc>
+    <loc>https://example.com/author/olivia-prosper/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/acevedo2015spatial/</loc>
+    <loc>https://example.com/publication/acevedo2015spatial/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/t.-trevor-caughlin/</loc>
+    <loc>https://example.com/author/t.-trevor-caughlin/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/brian-reichert/</loc>
+    <loc>https://example.com/author/brian-reichert/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/acevedo2015conservation/</loc>
+    <loc>https://example.com/publication/acevedo2015conservation/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/ellen-robertson/</loc>
+    <loc>https://example.com/author/ellen-robertson/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/fletcher2014matrix/</loc>
+    <loc>https://example.com/publication/fletcher2014matrix/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/andrew-j.-tatem/</loc>
+    <loc>https://example.com/author/andrew-j.-tatem/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/nathan-eagle/</loc>
+    <loc>https://example.com/author/nathan-eagle/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/caughlin2013place/</loc>
+    <loc>https://example.com/publication/caughlin2013place/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/acevedo2012diffusive/</loc>
+    <loc>https://example.com/publication/acevedo2012diffusive/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/mariano-marcano/</loc>
+    <loc>https://example.com/author/mariano-marcano/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/brian-e.-reichert/</loc>
+    <loc>https://example.com/author/brian-e.-reichert/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/kyle-e.-pias/</loc>
+    <loc>https://example.com/author/kyle-e.-pias/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/fletcher2011social/</loc>
+    <loc>https://example.com/publication/fletcher2011social/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/wiley-m.-kitchens/</loc>
+    <loc>https://example.com/author/wiley-m.-kitchens/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/alberto-estrada/</loc>
+    <loc>https://example.com/author/alberto-estrada/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/david-luther/</loc>
+    <loc>https://example.com/author/david-luther/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/luther2012congener/</loc>
+    <loc>https://example.com/publication/luther2012congener/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/maria-isabel-herrera/</loc>
+    <loc>https://example.com/author/maria-isabel-herrera/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/t.-mitchell-aide/</loc>
+    <loc>https://example.com/author/t.-mitchell-aide/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/acevedo2009automated/</loc>
+    <loc>https://example.com/publication/acevedo2009automated/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/carlos-j.-corrada-bravo/</loc>
+    <loc>https://example.com/author/carlos-j.-corrada-bravo/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/hector-corrada-bravo/</loc>
+    <loc>https://example.com/author/hector-corrada-bravo/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/luis-j.-villanueva-rivera/</loc>
+    <loc>https://example.com/author/luis-j.-villanueva-rivera/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/acevedo2008bird/</loc>
+    <loc>https://example.com/publication/acevedo2008bird/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/carla-restrepo/</loc>
+    <loc>https://example.com/author/carla-restrepo/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/acevedo2008land/</loc>
+    <loc>https://example.com/publication/acevedo2008land/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/acevedo2007bird/</loc>
+    <loc>https://example.com/publication/acevedo2007bird/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/acevedo2006field/</loc>
+    <loc>https://example.com/publication/acevedo2006field/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/acevedo2005epicrates/</loc>
+    <loc>https://example.com/publication/acevedo2005epicrates/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/maria-del-carmen-ruiz-jaen/</loc>
+    <loc>https://example.com/author/maria-del-carmen-ruiz-jaen/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/neftali-rios-lopez/</loc>
+    <loc>https://example.com/author/neftali-rios-lopez/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/admin/</loc>
+    <loc>https://example.com/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://example.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/john-michael-toohey/</loc>
+    <loc>https://example.com/author/john-michael-toohey/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/kylee-dimaggio/</loc>
+    <loc>https://example.com/author/kylee-dimaggio/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/morgan-manning/</loc>
+    <loc>https://example.com/author/morgan-manning/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/nicholas-gengler/</loc>
+    <loc>https://example.com/author/nicholas-gengler/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/nicole-gutierrez/</loc>
+    <loc>https://example.com/author/nicole-gutierrez/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/orlando-acevedo-charry/</loc>
+    <loc>https://example.com/author/orlando-acevedo-charry/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/robert-j.-fletcher-jr./</loc>
+    <loc>https://example.com/author/robert-j.-fletcher-jr./</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/undergraduate-research-team/</loc>
+    <loc>https://example.com/author/undergraduate-research-team/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

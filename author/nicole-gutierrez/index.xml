@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicole Gutierrez | QuantLab 2.0</title>
-    <link>http://example.org/author/nicole-gutierrez/</link>
-      <atom:link href="http://example.org/author/nicole-gutierrez/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/author/nicole-gutierrez/</link>
+      <atom:link href="https://example.com/author/nicole-gutierrez/index.xml" rel="self" type="application/rss+xml" />
     <description>Nicole Gutierrez</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>http://example.org/author/nicole-gutierrez/avatar_hu5a9508ed61b484e3ffe3a3755322e90e_10400_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://example.com/author/nicole-gutierrez/avatar_hu5a9508ed61b484e3ffe3a3755322e90e_10400_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Nicole Gutierrez</title>
-      <link>http://example.org/author/nicole-gutierrez/</link>
+      <link>https://example.com/author/nicole-gutierrez/</link>
     </image>
     
   </channel>
