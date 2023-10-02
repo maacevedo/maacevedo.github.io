@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lydia Beaudrot | QuantLab 2.0</title>
-    <link>https://example.com/author/lydia-beaudrot/</link>
-      <atom:link href="https://example.com/author/lydia-beaudrot/index.xml" rel="self" type="application/rss+xml" />
+    <link>maacevedo.github.io/author/lydia-beaudrot/</link>
+      <atom:link href="maacevedo.github.io/author/lydia-beaudrot/index.xml" rel="self" type="application/rss+xml" />
     <description>Lydia Beaudrot</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
+      <url>/maacevedo.github.io/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
       <title>Lydia Beaudrot</title>
-      <link>https://example.com/author/lydia-beaudrot/</link>
+      <link>maacevedo.github.io/author/lydia-beaudrot/</link>
     </image>
     
     <item>
       <title>Local extinction risk under climate change in a neotropical asymmetrically dispersed epiphyte</title>
-      <link>https://example.com/publication/acevedo2020local/</link>
+      <link>maacevedo.github.io/publication/acevedo2020local/</link>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/acevedo2020local/</guid>
+      <guid>maacevedo.github.io/publication/acevedo2020local/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -27,9 +27,9 @@
     
     <item>
       <title>Local temperature and ecological similarity drive distributional dynamics of tropical mammals worldwide</title>
-      <link>https://example.com/publication/beaudrot2019local/</link>
+      <link>maacevedo.github.io/publication/beaudrot2019local/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/beaudrot2019local/</guid>
+      <guid>maacevedo.github.io/publication/beaudrot2019local/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -40,9 +40,9 @@
     
     <item>
       <title>Distributional shifts in a biodiversity hotspot</title>
-      <link>https://example.com/publication/beaudrot2018distributional/</link>
+      <link>maacevedo.github.io/publication/beaudrot2018distributional/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/beaudrot2018distributional/</guid>
+      <guid>maacevedo.github.io/publication/beaudrot2018distributional/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.

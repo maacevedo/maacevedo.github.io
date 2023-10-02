@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | QuantLab 2.0</title>
-    <link>https://example.com/authors/</link>
-      <atom:link href="https://example.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>maacevedo.github.io/authors/</link>
+      <atom:link href="maacevedo.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
+      <url>/maacevedo.github.io/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
       <title>Authors</title>
-      <link>https://example.com/authors/</link>
+      <link>maacevedo.github.io/authors/</link>
     </image>
     
   </channel>

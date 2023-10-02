@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>T. Trevor Caughlin | QuantLab 2.0</title>
-    <link>https://example.com/author/t.-trevor-caughlin/</link>
-      <atom:link href="https://example.com/author/t.-trevor-caughlin/index.xml" rel="self" type="application/rss+xml" />
+    <link>maacevedo.github.io/author/t.-trevor-caughlin/</link>
+      <atom:link href="maacevedo.github.io/author/t.-trevor-caughlin/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Trevor Caughlin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
+      <url>/maacevedo.github.io/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
       <title>T. Trevor Caughlin</title>
-      <link>https://example.com/author/t.-trevor-caughlin/</link>
+      <link>maacevedo.github.io/author/t.-trevor-caughlin/</link>
     </image>
     
     <item>
       <title>Spatial Heterogeneity, Host Movement and Mosquito-Borne Disease Transmission</title>
-      <link>https://example.com/publication/acevedo2015spatial/</link>
+      <link>maacevedo.github.io/publication/acevedo2015spatial/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/acevedo2015spatial/</guid>
+      <guid>maacevedo.github.io/publication/acevedo2015spatial/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -27,9 +27,9 @@
     
     <item>
       <title>Place-based attributes predict community membership in a mobile phone communication network</title>
-      <link>https://example.com/publication/caughlin2013place/</link>
+      <link>maacevedo.github.io/publication/caughlin2013place/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/caughlin2013place/</guid>
+      <guid>maacevedo.github.io/publication/caughlin2013place/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.

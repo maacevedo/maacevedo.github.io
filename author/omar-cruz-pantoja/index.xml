@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Omar Cruz-Pantoja | QuantLab 2.0</title>
-    <link>https://example.com/author/omar-cruz-pantoja/</link>
-      <atom:link href="https://example.com/author/omar-cruz-pantoja/index.xml" rel="self" type="application/rss+xml" />
+    <link>maacevedo.github.io/author/omar-cruz-pantoja/</link>
+      <atom:link href="maacevedo.github.io/author/omar-cruz-pantoja/index.xml" rel="self" type="application/rss+xml" />
     <description>Omar Cruz-Pantoja</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
+      <url>/maacevedo.github.io/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
       <title>Omar Cruz-Pantoja</title>
-      <link>https://example.com/author/omar-cruz-pantoja/</link>
+      <link>maacevedo.github.io/author/omar-cruz-pantoja/</link>
     </image>
     
     <item>
       <title>Animal trait variation at the within-individual level: erythrocyte size variation and malaria infection in a tropical lizard</title>
-      <link>https://example.com/publication/cruz2022animal/</link>
+      <link>maacevedo.github.io/publication/cruz2022animal/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/cruz2022animal/</guid>
+      <guid>maacevedo.github.io/publication/cruz2022animal/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sehoya Cotner | QuantLab 2.0</title>
-    <link>https://example.com/author/sehoya-cotner/</link>
-      <atom:link href="https://example.com/author/sehoya-cotner/index.xml" rel="self" type="application/rss+xml" />
+    <link>maacevedo.github.io/author/sehoya-cotner/</link>
+      <atom:link href="maacevedo.github.io/author/sehoya-cotner/index.xml" rel="self" type="application/rss+xml" />
     <description>Sehoya Cotner</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
+      <url>/maacevedo.github.io/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
       <title>Sehoya Cotner</title>
-      <link>https://example.com/author/sehoya-cotner/</link>
+      <link>maacevedo.github.io/author/sehoya-cotner/</link>
     </image>
     
     <item>
       <title>How the ecology and evolution of the COVID-19 pandemic changed learning</title>
-      <link>https://example.com/publication/lashley2020how/</link>
+      <link>maacevedo.github.io/publication/lashley2020how/</link>
       <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lashley2020how/</guid>
+      <guid>maacevedo.github.io/publication/lashley2020how/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
