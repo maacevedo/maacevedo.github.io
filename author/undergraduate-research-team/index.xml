@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Undergraduate Research Team | QuantLab 2.0</title>
-    <link>maacevedo.github.io/author/undergraduate-research-team/</link>
-      <atom:link href="maacevedo.github.io/author/undergraduate-research-team/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maacevedo.github.io/author/undergraduate-research-team/</link>
+      <atom:link href="https://maacevedo.github.io/author/undergraduate-research-team/index.xml" rel="self" type="application/rss+xml" />
     <description>Undergraduate Research Team</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/maacevedo.github.io/author/undergraduate-research-team/avatar_hu75e5b311952ed49c80f36dc8cfe865cb_3835736_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://maacevedo.github.io/author/undergraduate-research-team/avatar_hu75e5b311952ed49c80f36dc8cfe865cb_3835736_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Undergraduate Research Team</title>
-      <link>maacevedo.github.io/author/undergraduate-research-team/</link>
+      <link>https://maacevedo.github.io/author/undergraduate-research-team/</link>
     </image>
     
   </channel>

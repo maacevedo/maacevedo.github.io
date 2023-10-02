@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ian G. Flores Siaca | QuantLab 2.0</title>
-    <link>maacevedo.github.io/author/ian-g.-flores-siaca/</link>
-      <atom:link href="maacevedo.github.io/author/ian-g.-flores-siaca/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maacevedo.github.io/author/ian-g.-flores-siaca/</link>
+      <atom:link href="https://maacevedo.github.io/author/ian-g.-flores-siaca/index.xml" rel="self" type="application/rss+xml" />
     <description>Ian G. Flores Siaca</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/maacevedo.github.io/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
+      <url>https://maacevedo.github.io/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
       <title>Ian G. Flores Siaca</title>
-      <link>maacevedo.github.io/author/ian-g.-flores-siaca/</link>
+      <link>https://maacevedo.github.io/author/ian-g.-flores-siaca/</link>
     </image>
     
     <item>
       <title>Identifying individual and spatial drivers of heterogeneous transmission and virulence of malaria in Caribbean anoles</title>
-      <link>maacevedo.github.io/publication/toohey2022identifying/</link>
+      <link>https://maacevedo.github.io/publication/toohey2022identifying/</link>
       <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>maacevedo.github.io/publication/toohey2022identifying/</guid>
+      <guid>https://maacevedo.github.io/publication/toohey2022identifying/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
