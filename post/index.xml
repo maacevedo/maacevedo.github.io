@@ -5,12 +5,21 @@
     <link>https://maacevedo.github.io/post/</link>
       <atom:link href="https://maacevedo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maacevedo.github.io/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
       <title>Latest News</title>
       <link>https://maacevedo.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Carly defended her MS thesis</title>
+      <link>https://maacevedo.github.io/post/23-12-08-carly_graduation/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://maacevedo.github.io/post/23-12-08-carly_graduation/</guid>
+      <description>&lt;p&gt;Congratulations to Carly for the successful defense of her MS thesis!&lt;/p&gt;
+&lt;p&gt;We are super happy to announce that Carly successfully defended her thesis titled &lt;em&gt;ECO-EVOLUTIONARY DYNAMICS OF A THERMOCONFORMING ANOLE RECOLONIZING SECONDARY FOREST&lt;/em&gt;. For her thesis she compared genomic diversity and structure of &lt;em&gt;Anolis gundlachi&lt;/em&gt; among forests of different ages in Puerto Rico. She also collaborated in multiple other projects in our lab and co-authored three peer-reviewed publications.  We wish her the very best in her future endeavors.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Congratulations Dr. Gengler</title>
@@ -28,15 +37,6 @@
       <guid>https://maacevedo.github.io/post/23_08_11_data_papers_esa/</guid>
       <description>&lt;p&gt;We are back from Portland, where we did a workshop on Data Papers and the future of open science at ESA 2023.&lt;/p&gt;
 &lt;p&gt;The future of ecology is intrinsically tied to our ability to conduct open science. Data Papers are a special type of paper in Ecology where data and metadata are published to be reused. Our group of ESA Data Paper Editors composed of &lt;a href=&#34;https://www.usgs.gov/index.php/staff-profiles/grace-v-direnzo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grace DiRenzo&lt;/a&gt;, &lt;a href=&#34;https://haoye.us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hao Ye&lt;/a&gt;, &lt;a href=&#34;https://www.picardiecology.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simona Picardi&lt;/a&gt;, and myself are working towards a re conceptualization of this important type of paper. We are following a data-driven process that includes gathering input from the community. As part of this process we led a special session at ESA where our community engaged in a super fun and highly engaging brainstorming session. Working with this group is a real luxury! Stay tuned as we we will announce soon the new features of Data Papers 2.0!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Carly defended her MS thesis</title>
-      <link>https://maacevedo.github.io/post/23-12-08-carly_graduation/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://maacevedo.github.io/post/23-12-08-carly_graduation/</guid>
-      <description>&lt;p&gt;Congratulations to Carly for the successful defense of her MS thesis&lt;/p&gt;
-&lt;p&gt;We are super happy to announce that Carly successfully defended her thesis titled &lt;em&gt;ECO-EVOLUTIONARY DYNAMICS OF A THERMOCONFORMING ANOLE RECOLONIZING SECONDARY FOREST&lt;/em&gt;. For her thesis she compared genomic diversity and structure of &lt;em&gt;Anolis gundlachi&lt;/em&gt; among forests of different ages in Puerto Rico. She also collaborated in multiple other projects in our lab and co-authored three peer-reviewed publications.  We wish her the very best in her future endeavors.&lt;/p&gt;</description>
     </item>
     
     <item>
