@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | QuantLab 2.0</title>
-    <link>https://maacevedo.github.io/categories/</link>
-      <atom:link href="https://maacevedo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://example.org/categories/</link>
+      <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://maacevedo.github.io/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
+      <url>http://example.org/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
       <title>Categories</title>
-      <link>https://maacevedo.github.io/categories/</link>
+      <link>http://example.org/categories/</link>
     </image>
     
   </channel>

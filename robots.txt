@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://maacevedo.github.io/sitemap.xml
+Sitemap: http://example.org/sitemap.xml

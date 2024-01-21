@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veronica Acosta-Mart\&#39;inez | QuantLab 2.0</title>
-    <link>https://maacevedo.github.io/author/veronica-acosta-mart%5Cinez/</link>
-      <atom:link href="https://maacevedo.github.io/author/veronica-acosta-mart%5Cinez/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://example.org/author/veronica-acosta-mart%5Cinez/</link>
+      <atom:link href="http://example.org/author/veronica-acosta-mart%5Cinez/index.xml" rel="self" type="application/rss+xml" />
     <description>Veronica Acosta-Mart\&#39;inez</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://maacevedo.github.io/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
+      <url>http://example.org/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
       <title>Veronica Acosta-Mart\&#39;inez</title>
-      <link>https://maacevedo.github.io/author/veronica-acosta-mart%5Cinez/</link>
+      <link>http://example.org/author/veronica-acosta-mart%5Cinez/</link>
     </image>
     
     <item>
       <title>Comparing biological methods for soil health assessments: EL-FAME, enzyme activities, and qPCR</title>
-      <link>https://maacevedo.github.io/publication/perez2021comparing/</link>
+      <link>http://example.org/publication/perez2021comparing/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://maacevedo.github.io/publication/perez2021comparing/</guid>
+      <guid>http://example.org/publication/perez2021comparing/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
