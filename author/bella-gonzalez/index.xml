@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bella Gonzalez | QuantLab 2.0</title>
+    <link>http://example.org/author/bella-gonzalez/</link>
+      <atom:link href="http://example.org/author/bella-gonzalez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bella Gonzalez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://example.org/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
+      <title>Bella Gonzalez</title>
+      <link>http://example.org/author/bella-gonzalez/</link>
+    </image>
+    
+    <item>
+      <title>Recolonization of secondary forests by a locally extinct Caribbean anole through the lens of range expansion theory</title>
+      <link>http://example.org/publication/acevedo2024recolonization/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/acevedo2024recolonization/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,51 @@
     <link>http://example.org/author/miguel-acevedo/</link>
       <atom:link href="http://example.org/author/miguel-acevedo/index.xml" rel="self" type="application/rss+xml" />
     <description>Miguel Acevedo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://example.org/author/miguel-acevedo/avatar_hu9be731d5c21fb2f6bc1c30bad13204c5_1947110_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Miguel Acevedo</title>
       <link>http://example.org/author/miguel-acevedo/</link>
     </image>
+    
+    <item>
+      <title>Higher body condition with infection by Haemoproteus parasites in Bananaquits (Coereba flaveola)</title>
+      <link>http://example.org/publication/gutierrez2024higher/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/gutierrez2024higher/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geographic differences in body size distributions underlie food web connectance of tropical forest mammals</title>
+      <link>http://example.org/publication/beaudrot2024geographic/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/beaudrot2024geographic/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recolonization of secondary forests by a locally extinct Caribbean anole through the lens of range expansion theory</title>
+      <link>http://example.org/publication/acevedo2024recolonization/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/acevedo2024recolonization/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Habitat configuration influences mammal populations at a wider spatial extent than habitat composition: a meta-analysis of forest mammal datasets</title>
