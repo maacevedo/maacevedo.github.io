@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex Zvoleff | QuantLab 2.0</title>
-    <link>http://example.org/author/alex-zvoleff/</link>
-      <atom:link href="http://example.org/author/alex-zvoleff/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://maacevedo.github.io/author/alex-zvoleff/</link>
+      <atom:link href="http://maacevedo.github.io/author/alex-zvoleff/index.xml" rel="self" type="application/rss+xml" />
     <description>Alex Zvoleff</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
+      <url>http://maacevedo.github.io/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
       <title>Alex Zvoleff</title>
-      <link>http://example.org/author/alex-zvoleff/</link>
+      <link>http://maacevedo.github.io/author/alex-zvoleff/</link>
     </image>
     
     <item>
       <title>Local temperature and ecological similarity drive distributional dynamics of tropical mammals worldwide</title>
-      <link>http://example.org/publication/beaudrot2019local/</link>
+      <link>http://maacevedo.github.io/publication/beaudrot2019local/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/beaudrot2019local/</guid>
+      <guid>http://maacevedo.github.io/publication/beaudrot2019local/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.

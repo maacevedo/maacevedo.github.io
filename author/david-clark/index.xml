@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Clark | QuantLab 2.0</title>
-    <link>http://example.org/author/david-clark/</link>
-      <atom:link href="http://example.org/author/david-clark/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://maacevedo.github.io/author/david-clark/</link>
+      <atom:link href="http://maacevedo.github.io/author/david-clark/index.xml" rel="self" type="application/rss+xml" />
     <description>David Clark</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/author/david-clark/avatar_huc3dd540923d2fe59f70dd577a5b5fdce_75318_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://maacevedo.github.io/author/david-clark/avatar_huc3dd540923d2fe59f70dd577a5b5fdce_75318_270x270_fill_q75_lanczos_center.jpg</url>
       <title>David Clark</title>
-      <link>http://example.org/author/david-clark/</link>
+      <link>http://maacevedo.github.io/author/david-clark/</link>
     </image>
     
     <item>
       <title>No evidence of predicted phenotypic changes after hurricane disturbance in a shade-specialist Caribbean anole</title>
-      <link>http://example.org/publication/acevedo2022no/</link>
+      <link>http://maacevedo.github.io/publication/acevedo2022no/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/acevedo2022no/</guid>
+      <guid>http://maacevedo.github.io/publication/acevedo2022no/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -27,9 +27,9 @@
     
     <item>
       <title>Anolis gundlachi (Yellow-chinned Anole) Cannibalism</title>
-      <link>http://example.org/publication/cruz2017anolis/</link>
+      <link>http://maacevedo.github.io/publication/cruz2017anolis/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/cruz2017anolis/</guid>
+      <guid>http://maacevedo.github.io/publication/cruz2017anolis/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.

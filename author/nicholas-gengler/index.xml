@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicholas Gengler | QuantLab 2.0</title>
-    <link>http://example.org/author/nicholas-gengler/</link>
-      <atom:link href="http://example.org/author/nicholas-gengler/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://maacevedo.github.io/author/nicholas-gengler/</link>
+      <atom:link href="http://maacevedo.github.io/author/nicholas-gengler/index.xml" rel="self" type="application/rss+xml" />
     <description>Nicholas Gengler</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>http://example.org/author/nicholas-gengler/avatar_hu0ccecb89c79e602d4970a2e66fe390b0_134472_270x270_fill_lanczos_center_3.png</url>
+      <url>http://maacevedo.github.io/author/nicholas-gengler/avatar_hu0ccecb89c79e602d4970a2e66fe390b0_134472_270x270_fill_lanczos_center_3.png</url>
       <title>Nicholas Gengler</title>
-      <link>http://example.org/author/nicholas-gengler/</link>
+      <link>http://maacevedo.github.io/author/nicholas-gengler/</link>
     </image>
     
   </channel>

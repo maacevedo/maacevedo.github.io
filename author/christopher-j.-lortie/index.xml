@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christopher J. Lortie | QuantLab 2.0</title>
-    <link>http://example.org/author/christopher-j.-lortie/</link>
-      <atom:link href="http://example.org/author/christopher-j.-lortie/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://maacevedo.github.io/author/christopher-j.-lortie/</link>
+      <atom:link href="http://maacevedo.github.io/author/christopher-j.-lortie/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher J. Lortie</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
+      <url>http://maacevedo.github.io/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
       <title>Christopher J. Lortie</title>
-      <link>http://example.org/author/christopher-j.-lortie/</link>
+      <link>http://maacevedo.github.io/author/christopher-j.-lortie/</link>
     </image>
     
     <item>
       <title>How the ecology and evolution of the COVID-19 pandemic changed learning</title>
-      <link>http://example.org/publication/lashley2020how/</link>
+      <link>http://maacevedo.github.io/publication/lashley2020how/</link>
       <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/lashley2020how/</guid>
+      <guid>http://maacevedo.github.io/publication/lashley2020how/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
