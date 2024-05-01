@@ -5,12 +5,36 @@
     <link>http://maacevedo.github.io/post/</link>
       <atom:link href="http://maacevedo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://maacevedo.github.io/media/logo_hu27752b9ce9aca15dbd0b2a53e0ef7be8_12580069_300x300_fit_lanczos_3.png</url>
       <title>Latest News</title>
       <link>http://maacevedo.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Computational/Quantitative Ecology Postdoc</title>
+      <link>http://maacevedo.github.io/post/24_04_30_quant_ecol_postdoc/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://maacevedo.github.io/post/24_04_30_quant_ecol_postdoc/</guid>
+      <description>&lt;p&gt;We are looking for a post-doctoral researcher to join our Snail Kite research team.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TITLE&lt;/strong&gt;: Postdoctoral Researcher (Computational/Quantitative Ecology and Conservation)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LOCATION&lt;/strong&gt;: University of Florida, Gainesville, Florida. We will consider remote working arrangements for exceptional candidates who need to be based in a different location for a small part of their appointment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SALARY&lt;/strong&gt;: Starting salary approximately $50,000, with a competitive benefits package.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DURATION&lt;/strong&gt;: The initial appointment will be for one year, with the possibility of renewal for a second year pending satisfactory performance and availability of funds.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;START DATE&lt;/strong&gt;: Flexible, but preferably by June 15, 2024. The position will be open until filled&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RESPONSIBILITIES&lt;/strong&gt;: The University of Florida Snail Kite research group is seeking a postdoctoral researcher with expertise in data engineering and/or data science applied to ecology and conservation. The successful candidate will work as part of a large, long-term research project on spatial ecology, population biology, and conservation of an endangered raptor, the Everglade Snail Kite. This project is unparalleled in spatial population biology and conservation by providing rigorous demographic and movement information across the entire breeding range of this critically imperiled species for the past 25 years, which is used for management, restoration, and conservation. This postdoctoral researcher is expected to (1) develop effective data management workflows for long-term monitoring data, (2) conduct a population viability analysis, (3) and develop novel applied research on the ecology and conservation of Florida Snail Kites.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;QUALIFICATIONS&lt;/strong&gt;:
+•	A PhD in ecology, biology, statistics, or applied mathematics completed by the position start date.
+•	Strong computational skills including data management, data wrangling, and database management systems.
+•	Programming experience (R and/or Python)
+•	A demonstrated track record of analyzing complex ecological data
+•	The ability to work independently and as part of an interdisciplinary team; a strong work ethic and commitment to reproducible and open science.
+•	Desired (but not required) skills include experience with population modeling, capture-mark-recapture, and population viability analysis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To apply&lt;/strong&gt;: Please send (1) a cover letter summarizing your research interests and relevant experience, (2) a Curriculum Vitae, and (3) contact information for three references to Miguel Acevedo (&lt;a href=&#34;mailto:maacevedo@ufl.edu&#34;&gt;maacevedo@ufl.edu&lt;/a&gt;) and Rob Fletcher (&lt;a href=&#34;mailto:robert.fletcher@ufl.edu&#34;&gt;robert.fletcher@ufl.edu&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Last day to apply: The position will remain open until filled. Review of applications will begin on May 20, 2024, and will continue until the position is filled.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Gainesville, Florida&lt;/strong&gt;: Situated in the rolling countryside of north-central Florida, Gainesville is much more than a stereotypical college town. Home of the University of Florida, seat of Alachua County&amp;rsquo;s government and the region&amp;rsquo;s commercial hub, it is progressive, environmentally conscious, and culturally diverse. The presence of many students and faculty from abroad among its 99,000-plus population adds a strong cross-cultural flavor to its historic small-town Southern roots. Its natural environment, temperate climate, and civic amenities make Gainesville a beautiful, pleasant, and interesting place in which to learn and live. Gainesville has been ranked as one of the best cities to live in the United States.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>WEC 2024 Awards</title>
